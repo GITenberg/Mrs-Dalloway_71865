@@ -1,0 +1,33 @@
+_repo: Mrs-Dalloway_71865
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woolf, Virginia
+    aliases:
+    - Woolf, Virginia Stephen
+    - Stephen, Virginia
+    birthdate: 1882
+    deathdate: 1941
+    gutenberg_agent_id: '89'
+    url: http://www.gutenberg.org/2009/agents/89
+    wikipedia: http://en.wikipedia.org/wiki/Virginia_Woolf
+description: ''
+gutenberg_issued: '2023-10-13'
+identifiers:
+  gutenberg: '71865'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h25h7bw1s&view=1up&seq=1
+pgterms:marc905: 20210110131041woolf
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Carla Foust, Emmanuel Ackerman and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bHarcourt, Brace & World, Inc., $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mrs. Dalloway
+url: http://www.gutenberg.org/ebooks/71865
