@@ -1,5 +1,8 @@
 _repo: Mrs-Dalloway_71865
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71865-h/images/cover.jpg
 creator:
   author:
     agent_name: Woolf, Virginia
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/89
     wikipedia: http://en.wikipedia.org/wiki/Virginia_Woolf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71865#Mrs-Dalloway
 gutenberg_issued: '2023-10-13'
 identifiers:
   gutenberg: '71865'
